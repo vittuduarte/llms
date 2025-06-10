@@ -12,4 +12,3 @@ arxiv==2.1.3
 stack-data==0.6.3
 pandas==2.2.3
 tabulate==0.9.0
-GOOGLE_API_KEY = AIzaSyAN8V9ySaSrM3z4qQSi3Akwk7CxSEZ6PiY
