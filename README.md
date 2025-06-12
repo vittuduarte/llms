@@ -1,2 +1,3 @@
 # llms
-Treinando a utilização de LLMs
+
+Treinando a utilização de LLMs Gemini/OpenAI/HuggingFace
